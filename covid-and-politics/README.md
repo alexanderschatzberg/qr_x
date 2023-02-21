@@ -12,3 +12,8 @@
 - Pandas
 - Matplotlib
 - Numpy
+
+### 3. Data Sources
+
+- [COVID ACT NOW](https://covidactnow.org/) for the COVID data.
+- [Cook Political Report on the 2020 Presidential Election](https://www.cookpolitical.com/2020-national-popular-vote-tracker) for the election data.
